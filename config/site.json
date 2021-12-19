@@ -1,6 +1,6 @@
 {
   "icon": "/icons/128.png",
-  "title": "spencer's onedrive index",
+  "title": "呵呵の网盘~",
   "maxItems": 100,
   "googleFontSans": "Overpass",
   "googleFontMono": "Overpass Mono",
@@ -9,12 +9,10 @@
   ],
   "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
   "protectedRoutes": [
-    "/🌞 Private folder/u-need-a-password",
-    "/🥟 Some test files/Protected route"
+    "/Internal"
   ],
   "contact": {
-    "email": "mailto:spencer.wushangbo@gmail.com",
-    "telegram": "https://t.me/realSpencerWoo",
-    "github": "https://github.com/spencerwooo/onedrive-vercel-index"
+    "email": "mailto:wallfjjd@gmail.com",
+    "github": "https://github.com/shoucandanghehe/"
   }
 }
