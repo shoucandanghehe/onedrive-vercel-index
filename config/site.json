@@ -1,18 +1,24 @@
 {
+  "userPrincipalName": "scdhh@stonty.com",
   "icon": "/icons/128.png",
   "title": "呵呵の网盘~",
+  "baseDirectory": "/oneindex",
   "maxItems": 100,
-  "googleFontSans": "Overpass",
-  "googleFontMono": "Overpass Mono",
+  "googleFontSans": "Inter",
+  "googleFontMono": "Fira Mono",
   "googleFontLinks": [
-    "https://fonts.googleapis.com/css2?family=Overpass+Mono&family=Overpass:wght@400;700&display=swap"
+    "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap"
   ],
   "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
   "protectedRoutes": [
-    "/Internal"
+    "/🌞 Private folder/u-need-a-password",
+    "/🥟 Some test files/Protected route"
   ],
-  "contact": {
-    "email": "mailto:wallfjjd@gmail.com",
-    "github": "https://github.com/shoucandanghehe/"
-  }
+  "email": "mailto:wallfjjd@gmail.com",
+  "links": [
+    {
+      "name": "GitHub",
+      "link": "https://github.com/shoucandanghehe/"
+    }
+  ]
 }
