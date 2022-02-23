@@ -17,7 +17,7 @@ module.exports = {
   title: "呵呵の网盘~",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: "/oneindex",
+  baseDirectory: '/oneindex',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
@@ -39,12 +39,10 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: [
-    "/Internal"
-  ],
+  protectedRoutes: ['/Internal'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: "mailto:wallfjjd@gmail.com",
+  email: 'mailto:wallfjjd@gmail.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -52,9 +50,10 @@ module.exports = {
   links: [
     {
       "name": "GitHub",
-      "link": "https://github.com/shoucandanghehe/"
+      "link": "https://github.com/shoucandanghehe"
     }
   ],
+
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
